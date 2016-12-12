@@ -43,6 +43,5 @@ jspm_packages
 #vim
 *.swp
 # build 
-dist
 #local testing config
 config.json
