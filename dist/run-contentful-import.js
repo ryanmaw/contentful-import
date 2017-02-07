@@ -75,7 +75,7 @@ function runContentfulImport(usageParams) {
       managementClient: clients.destination.management,
       spaceId: clients.destination.spaceId,
       prePublishDelay: opts.prePublishDelay,
-      assetProcessDelay: opts.sassetProcessDelay,
+      assetProcessDelay: opts.assetProcessDelay,
       contentModelOnly: opts.contentModelOnly,
       skipLocales: opts.skipLocales,
       skipContentModel: opts.skipContentModel
